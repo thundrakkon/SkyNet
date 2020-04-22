@@ -1,0 +1,1005 @@
+﻿device_car based assistant,device_smart watch,device_computer,device_smart appliance,device_fitness device,device_smart earpieces,device_uncommon smart device,device_smart speaker,device_smartphone,device_smart tv,Like to use in healthcare,auto_embedded,auto_bluetooth,auto_CarPlay,auto_android auto,auto_other,Have Employed VA in health,Shown Interest in Employing VA,use_illness symptons,use_medication information,use_locate services,use_treatment options,use_nutrition info,use_locate healthcare professional,use_shop for medication,use_schedule appointments,use_provide care,use_healthcare device,use_health insurance,use_health or wellness coaching,use_other ,Usage Based on Income,Gender Usage,Age Usage,Privacy Sentiment_Jan,Privacy Sentiment_Sept
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 18 - 29 ,very concerned ,very concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,> $200K,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$50K - $100K ,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,mildly concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$50K - $100K ,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$50K - $100K ,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,mildly concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$50K - $100K ,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$50K - $100K ,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$50K - $100K ,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,mildly concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+no,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$50K - $100K ,NaN, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,< $50K,female, 18 - 29 ,very concerned ,very concerned
+yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,yes,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,not concerned 
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,$100K - $200K,NaN, 45 - 60 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,don't know 
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,> $200K,NaN, 61+ ,moderately concerned ,very concerned
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,male, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,moderately concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,not concerned ,moderately concerned
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,< $50K,female, 18 - 29 ,very concerned ,very concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,don't know,not concerned 
+no,no,no,no,no,no,no,no,yes,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,mildly concerned
+no,no,no,no,no,no,no,no,no,no,no ,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,NaN,NaN,NaN,mildly concerned ,moderately concerned
+yes,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,$50K - $100K ,male, 30 - 45 ,very concerned ,very concerned
